@@ -122,7 +122,7 @@ For production deployment, consider:
 
 **Steven Morison**
 - GitHub: [@stevenmorison](https://stevencodelab.github.io)
-- Email: stevencodelabn@gmail.com
+- Email: stevencodelab@gmail.com
 - Whatsapp : +6282324093711
 
 ## 📄 License
