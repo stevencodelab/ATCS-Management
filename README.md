@@ -4,7 +4,8 @@
 
 ATCS-Management is an advanced Traffic Control System Management application designed to streamline and optimize traffic monitoring and management processes.
 
-![Project Banner](https://placeholder.com/800x300)
+![image](https://github.com/user-attachments/assets/f1a21486-77db-4990-b7eb-baa3d604a2e4)
+
 
 ## ✨ Features
 
@@ -87,7 +88,7 @@ The application will be available at `http://localhost:8000`
 
 ## 🔒 Security
 
-If you discover any security vulnerabilities, please send an email to steven.morison@example.com.
+If you discover any security vulnerabilities, please send an email to stevencodelab@gmail..com.
 
 ## 🤝 Contributing
 
